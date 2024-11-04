@@ -8,3 +8,4 @@
 - [6️⃣ Dominando o Armazenamento no Azure](./docs/storage.md)
 - [7️⃣ Entendendo Segurança e Identidade na Azure](./docs/segurancaIdentidade.md)
 - [8️⃣ Otimizando Custos no Azure](./docs/custosEstimative.md)
+- [9️⃣ Gerenciamento de Políticas de Acesso no Microsoft Azure](./docs/politicasAcesso.md)
