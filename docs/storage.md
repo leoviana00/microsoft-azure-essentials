@@ -1,4 +1,4 @@
-<h1 align="center">📓 Guia Completo: Configurando e Dimensionando Máquinas Virtuais no Azure</h1>
+<h1 align="center">📓 Guia: Dominando o Armazenamento no Azure</h1>
 
 ## 📑 Menu
 

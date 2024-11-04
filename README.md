@@ -5,4 +5,4 @@
 - [3️⃣ Configurando uma instância de Banco de Dados](./docs/dbInstance.md)
 - [4️⃣ Construindo uma arquitetura na Azure](./docs/arquitetura.md)
 - [5️⃣ Configurando e Dimensionando Máquinas Virtuais no Azure](./docs/dimensionamentoVm.md)
-- [6️⃣ Configurando e Dimensionando Máquinas Virtuais no Azure](./docs/storage.md)
+- [6️⃣ Dominando o Armazenamento no Azure](./docs/storage.md)
