@@ -6,3 +6,4 @@
 - [4️⃣ Construindo uma arquitetura na Azure](./docs/arquitetura.md)
 - [5️⃣ Configurando e Dimensionando Máquinas Virtuais no Azure](./docs/dimensionamentoVm.md)
 - [6️⃣ Dominando o Armazenamento no Azure](./docs/storage.md)
+- [7️⃣ Entendendo Segurança e Identidade na Azure](./docs/segurancaIdentidade.md)
