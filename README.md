@@ -10,3 +10,4 @@
 - [8️⃣ Otimizando Custos no Azure](./docs/custosEstimative.md)
 - [9️⃣ Gerenciamento de Políticas de Acesso no Microsoft Azure](./docs/politicasAcesso.md)
 - [🔟 Ferramentas de implantação na Azure](./docs/implantacaoAzure.md)
+- [1️⃣1️⃣ Monitoramento Inteligente com o Azure](./docs/monitoramentoAzure.md)
