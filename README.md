@@ -7,3 +7,4 @@
 - [5️⃣ Configurando e Dimensionando Máquinas Virtuais no Azure](./docs/dimensionamentoVm.md)
 - [6️⃣ Dominando o Armazenamento no Azure](./docs/storage.md)
 - [7️⃣ Entendendo Segurança e Identidade na Azure](./docs/segurancaIdentidade.md)
+- [8️⃣ Otimizando Custos no Azure](./docs/custosEstimative.md)
